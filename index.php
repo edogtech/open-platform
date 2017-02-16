@@ -20,13 +20,12 @@ define('APP_DEBUG',True);
 // 定义应用目录
 define('APP_PATH','./Application/');
 
-define ( 'RUNTIME_PATH', './Runtime/' );
+define ('RUNTIME_PATH', './Runtime/' );
 
 define('COMMON_PATH','./Common/');
 
-//追加新的分组
-// define('BIND_MODULE','Charge');
-// define('BIND_MODULE','Lease');
+//追加新的分组，需注释掉
+// define('BIND_MODULE','APIes');
 
 //绑定默认分组
 define('BIND_MODULE', 'Admin');
