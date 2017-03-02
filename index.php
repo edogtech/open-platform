@@ -28,7 +28,7 @@ define('COMMON_PATH','./Common/');
 // define('BIND_MODULE','APIes');
 
 //绑定默认分组
-define('BIND_MODULE', 'Admin');
+// define('BIND_MODULE', 'Admin');
 
 
 
